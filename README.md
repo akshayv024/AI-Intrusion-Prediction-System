@@ -37,8 +37,8 @@ An intelligent surveillance system designed to predict and detect unauthorized i
 ## Installation
 
 ```bash
-git clone <https://github.com/Akshay777e/AI-Intrusion-Prediction-System>
-cd Ai-Intrusion-Prediction-System
+git clone <https://github.com/Akshay777e/intrusion-prediction-system>
+cd intrusion-prediction-system
 pip install -r requirements.txt
 python intrusion_system.py
 ```
