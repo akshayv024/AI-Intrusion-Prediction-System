@@ -1,4 +1,4 @@
-# AI-Based Intrusion Prediction System
+# AI-Based Intrusion Prediction System using YOLOv8 and Behavioral Movement Analysis
 
 An intelligent surveillance system designed to predict and detect unauthorized intrusion in restricted areas using YOLOv8 and behavioral movement analysis.
 
